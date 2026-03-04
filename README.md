@@ -20,11 +20,11 @@ This project contains the following services:
 
 Below is the Eureka Service Registry showing all registered microservices:
 
-![Eureka Dashboard 1](screenshots/eureka-dashboard.png)
+![Eureka Dashboard 1](Screenshots/eureka-dashboard.png)
 
-![Eureka Dashboard 2](screenshots/eureka-dashboard-services.png)
+![Eureka Dashboard 2](Screenshots/eureka-dashboard-services.png)
 
-![Eureka Dashboard 3](screenshots/eureka-dashboard-main.png)
+![Eureka Dashboard 3](Screenshots/eureka-dashboard-main.png)
 
 ## 🛠 Tech Stack
 
